@@ -1,4 +1,4 @@
-SpatialOS Custom Minimal Template Provider
+# SpatialOS Custom Minimal Template Provider
 
 Replacement for Basic Template Provider
 
